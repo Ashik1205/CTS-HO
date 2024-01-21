@@ -1,0 +1,6 @@
+adding hello xml file
+<?xml version = "1.0" >
+<note>
+<to> jane</to>
+<body> purchase chocolates </body>
+</note>
